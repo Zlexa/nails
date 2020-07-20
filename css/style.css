@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 body{
     font-family: 'Epilogue', sans-serif;
     margin: 0;
-    background: url(/img/nails-865121_1920.jpg) no-repeat;
+    background: url(img/nails-865121_1920.jpg) no-repeat;
     background-size:105% ;
     background-color: rgba(255, 128, 128, 0.6);
     height: 500px
